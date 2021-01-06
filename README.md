@@ -1,5 +1,7 @@
 # leaflet-map-simple
-A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
+A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages.
+
+These are the pages that I create and copy on my own GitHub account
 
 ## Link to live map (replace with link to your site)
 https://willemcarthago.github.io/leaflet-map-simple/
